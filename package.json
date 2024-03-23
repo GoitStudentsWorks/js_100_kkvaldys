@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/ProfIT-project-js/",
+    "build": "vite build --base=/js_100_kkvaldys/",
     "preview": "vite preview"
   },
   "devDependencies": {
